@@ -12,4 +12,6 @@
 
  ![Group 3 (1)](https://github.com/JeniferOvejero/Oniverso-DSO/assets/116187518/019c19a7-420b-40a3-8070-d5befb4adcd8)
  
- [T1 UML 2.pdf](https://github.com/JeniferOvejero/Oniverso-DSO/files/13620251/T1.UML.2.pdf)
+## diagrama UML
+
+![T1 UML 2_page-0001](https://github.com/JeniferOvejero/Oniverso-DSO/assets/116187518/41b952f3-22ef-4e61-8772-a89bfbf7c915)
