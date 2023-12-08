@@ -1,7 +1,7 @@
 # Oniverso-DSO
  Sistema de cadastro de Calendario/Eventos
 
- Python
+ Python, PySimpleGUI
 
  Arquitetura MVC (model/view/controller)
 
